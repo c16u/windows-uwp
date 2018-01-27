@@ -88,10 +88,10 @@ Mobile:
 ## "Color mode" settings
 
 
-If your app allows users to choose the app's color mode, present these options using [radio buttons](../controls-and-patterns/radio-button.md) or a [combo box](../controls-and-patterns/lists.md#drop-down-lists) with the header "Choose a mode". The options should read
+If your app allows users to choose the app's color mode, present these options using [radio buttons](../controls-and-patterns/radio-button.md) or a [combo box](../controls-and-patterns/lists.md#drop-down-lists) with the label "Choose your app mode" and a "Personalization" header. The options should read
+- Windows default
 - Light
 - Dark
-- Windows default
 
 We also recommend adding a hyperlink to the Colors page of the Windows Settings app where users can check the Windows default theme. Use the string "Windows color settings" for the hyperlink text.
 
@@ -103,10 +103,10 @@ Detailed redlines showing preferred text strings for the "Choose a mode" section
 </div>
 -->
 
-## "About" section and "Give feedback" button
+## "About" section and "Send feedback" button
 
 
-If you need an "About this app" section in your app, create a dedicated app settings page for that. If you want a "Give Feedback" button, place that toward the bottom of the "About this app" page.
+If you need an "About this app" section in your app, create a dedicated app settings page for that. If you want a "Send feedback" button, place that toward the bottom of the "About this app" page.
 
 "Terms of Use" and "Privacy Statement" should be [hyperlink buttons](../controls-and-patterns/hyperlinks.md) with wrapping text.
 
